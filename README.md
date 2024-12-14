@@ -1,4 +1,4 @@
-# 2048 game
+# 2048
 
 Implemented the 2048 game like in [this reference](https://play2048.co/)
 
@@ -6,5 +6,5 @@ Implemented the 2048 game like in [this reference](https://play2048.co/)
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/js_2048_game/)
+- [Demo](https://AndriiZakharenko.github.io/js_2048_game/)
 
