@@ -2,7 +2,7 @@
 
 Implemented the [2048](https://play2048.co/) game
 
-![Preview](./src/images/reference.png)
+<img src="./src/images/reference.png" alt="Preview" width="300" />
 
 ## Demo Links
 
