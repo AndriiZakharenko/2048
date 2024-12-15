@@ -1,6 +1,6 @@
 # 2048
 
-Implemented the 2048 game like in [this reference](https://play2048.co/)
+Implemented the [2048](https://play2048.co/) game
 
 ![Preview](./src/images/reference.png)
 
