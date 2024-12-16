@@ -2,7 +2,7 @@
 
 - JS
 - Parcel
-- 
+  
 ## Demo Links
 
 - [Demo](https://AndriiZakharenko.github.io/2048/)
